@@ -29,7 +29,7 @@ yum install -y systemd-devel
 yum install -y luajit-devel 
 yum install -y swig 
 yum install -y python36-devel
-
+yum install -y qt5-qtsvg-devel
 
 # BUILDING and INSTALLING OBS
 cd /tmp
